@@ -1,0 +1,32 @@
+_repo: Colecci-n-de-viages-y-expedici-nes---los-campos-de-Buenos-Aires-y-a-las-costas-de-Patagonia_16105
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Angelis, Pedro de
+    alias: De Angelis, Pedro
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '5056'
+    url: http://www.gutenberg.org/2009/agents/5056
+    wikipedia: http://es.wikipedia.org/wiki/Pedro_de_Angelis
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2005-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16105'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2801'
+- !lcsh 'Argentina -- Discovery and exploration'
+- !lcsh 'Patagonia (Argentina and Chile)'
+- !lcsh 'Indians of South America -- Argentina'
+title: Colección de viages y expediciónes à los campos de Buenos Aires y a las costas
+  de Patagonia
+url: http://www.gutenberg.org/ebooks/16105

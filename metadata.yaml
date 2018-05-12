@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5056
     wikipedia: http://es.wikipedia.org/wiki/Pedro_de_Angelis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16105#Colecci-n-de-viages-y-expedici-nes---los-campos-de-Buenos-Aires-y-a-las-costas-de-Patagonia
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2005-06-22'
 gutenberg_type: Text
